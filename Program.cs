@@ -94,8 +94,6 @@ namespace CookiesMachine
                 }
                 Console.WriteLine("Введите 'выход' для выхода, любой другой ввод - продолжить работу");
                 input = Console.ReadLine();
-
-
             }
         }
     }
